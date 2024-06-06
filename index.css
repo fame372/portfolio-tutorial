@@ -50,6 +50,9 @@ h3{
 p{
     margin-bottom: 0;
 }
+a{ 
+ color:pink;
+}
 
 a:hover,
 a:focus {
